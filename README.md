@@ -7,7 +7,7 @@
 
 <p>Eu sou Amadeu Fernandes, futuro Desenvolvedor Full-Stack!💻</p>
 <ul> 🔰 Maranhão - BR</p>
-📚 Estudante de Ciência da Computação</ul
+📚 Estudante de Ciência da Computação - UFMA</ul
 
 <!-- Gif -->
 <!-- <p align="right">
