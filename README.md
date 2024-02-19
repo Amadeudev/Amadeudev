@@ -1,9 +1,16 @@
-<h1>👋🏾 Olá, eu sou o Amadeu Fernandes, estudante de programação! 💻</h1>
-
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Amadeudev&theme=blue-green">
-<!--   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeudev&theme=blue-green"> -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá Mundo! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%"></a></h1></summary>
 </div>
+
+##
+
+<p>Eu sou Amadeu Fernandes, estudante de Ciência da Computação na Universidade Federal do Maranhão e futuro Desenvolvedor Full-Stack!💻</p>
+
+<!-- Gif -->
+<p align="right">
+  <img align="right" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" style="width: 55%">
+</p>
 
 ##
 
@@ -23,4 +30,9 @@
   <a href = "https://www.linkedin.com/in/amadeu-f-684340231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Amadeudev&theme=blue-green">
+  <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amadeudev&theme=blue-green">
+</div>
