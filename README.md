@@ -5,7 +5,7 @@
 
 ##
 
-<p>Eu sou Amadeu Fernandes, futuro Desenvolvedor Full-Stack!💻</p>
+<p>Eu sou Amadeu Fernandes, futuro Desenvolvedor Front-End!💻</p>
 <ul> 🔰 Maranhão - BR</p>
 📚 Estudante de Ciência da Computação - UFMA</ul
 
