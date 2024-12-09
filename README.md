@@ -5,7 +5,8 @@
 
 ##
 
-<p>Eu sou Amadeu Fernandes, futuro Desenvolvedor Front-End!💻</p>
+<p>Eu sou Amadeu Fernandes, graduando em Ciência da Computação pela Universidade Federal do Maranhão! Atualmente, tenho como objetivo trabalhar na área de desenvolvimento de software, buscando sempre me aperfeiçoar em minhas formações. Estou sempre buscando desafios para por meus conhecimentos em prática, desenvolvendo soluções para problemáticas do dia a dia universitário e pessoal.💻</p>
+<p>Recentemente, descobri certo gosto pelo mundo dos Hackatons, inclusive ganhando 1° lugar no primeiro em que participei!</p>
 <ul> 🔰 Maranhão - BR</p>
 📚 Estudante de Ciência da Computação - UFMA</ul
 
